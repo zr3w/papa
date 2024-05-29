@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hazard Nukers","discord.gg/murderers"];
+const statusMessages = ["City Morgue","Zardex"];
 
 
 let currentIndex = 0;
